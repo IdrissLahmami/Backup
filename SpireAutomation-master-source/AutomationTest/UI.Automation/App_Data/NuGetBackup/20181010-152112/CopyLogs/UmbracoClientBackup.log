@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Oct 10 15:21:42 2018
+
+   Source : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\Umbraco_Client\
+     Dest : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\App_Data\NuGetBackup\20181010-152112\Umbraco_Client\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\Umbraco_Client\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Wed Oct 10 15:21:42 2018

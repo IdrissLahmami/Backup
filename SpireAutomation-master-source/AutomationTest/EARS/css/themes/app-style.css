@@ -1,0 +1,12 @@
+﻿.app-merge-report-page .from-table,.app-merge-report-page .to-table
+{
+    width:30%;
+}
+
+.moveimage {
+    position: relative;
+    bottom: 2px;
+    color: black;
+    padding: 20px 40px;
+}
+

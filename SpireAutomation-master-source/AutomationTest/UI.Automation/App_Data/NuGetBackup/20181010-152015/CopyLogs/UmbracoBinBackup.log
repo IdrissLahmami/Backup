@@ -1,0 +1,49 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Oct 10 15:20:16 2018
+
+   Source : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\
+     Dest : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\App_Data\NuGetBackup\20181010-152015\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   2	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\
+	    New File  		   29344	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	    New File  		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	  New Dir         14	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\Debug\
+	    New File  		  235008	ImpromptuInterface.dll  0%   55%  100%  
+	    New File  		  250264	ImpromptuInterface.xml  0%   52%  100%  
+	    New File  		   98856	Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll  0%  100%  
+	    New File  		  181248	RestSharp.dll  0%   72%  100%  
+	    New File  		  168617	RestSharp.xml  0%   77%  100%  
+	    New File  		   18944	SpecFlow.Assist.Dynamic.dll  0%  100%  
+	    New File  		   28160	SpecRun.SpecFlowPlugin.dll  0%  100%  
+	    New File  		   77672	System.ValueTuple.dll  0%  100%  
+	    New File  		  286208	TechTalk.SpecFlow.dll  0%   45%   91%  100%  
+	    New File  		   19456	TechTalk.SpecRun.Common.dll  0%  100%  
+	    New File  		   14336	TechTalk.SpecRun.dll  0%  100%  
+	    New File  		    4096	UI.Automation.dll  0%  100%  
+	    New File  		    1400	UI.Automation.dll.config  0%  100%  
+	    New File  		    7680	UI.Automation.pdb  0%  100%  
+	  New Dir          0	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         1         0         0         0
+   Files :        16        16         0         0         0         0
+   Bytes :    1.35 m    1.35 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             6941921 Bytes/sec.
+   Speed :             397.219 MegaBytes/min.
+
+   Ended : Wed Oct 10 15:20:16 2018

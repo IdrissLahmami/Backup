@@ -1,0 +1,1034 @@
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\BACKUP\AutomationTest\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\RestSharp.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Gherkin.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FSharp.Core.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\RazorEngine.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\RestSharp.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Gherkin.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\FSharp.Core.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\RazorEngine.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation - Copy (4)\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\RestSharp.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Gherkin.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\FSharp.Core.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\RazorEngine.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\TRYTHIS\Automation - Copy (4)1\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\ApplicationInsights.config
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Default.srprofile
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\csc.exe
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\vbc.exe
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\RestSharp.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Gherkin.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FSharp.Core.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\RazorEngine.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.pdb
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\UI.dll.config
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.pdb
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\FluentAssertions.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.ValueTuple.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Helpers.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Mvc.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Razor.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\WebDriver.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\bin\Debug\System.Web.Optimization.xml
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.dll
+E:\TRYTHIS\FINISHED\New\Automation\Source\UI.Automation\UI.Tests\obj\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\ApplicationInsights.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\csc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\vbc.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Optimization.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Gherkin.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\FSharp.Core.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\RazorEngine.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\UI.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\bin\Debug\System.Web.Optimization.xml
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+K:\Users\Administrator\Documents\GitHub\Parmenion\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Gherkin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\UI.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Default.srprofile
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\RestSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Gherkin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\UI.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Default.srprofile
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\RestSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Gherkin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\UI.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest - Copy\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Gherkin.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\GitHub\Test\TEST\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Gherkin.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Users\lahmamii\Documents\SpireAutomationOld1\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Gherkin.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.Commands.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\FSharp.Core.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\RazorEngine.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Publishing.Tasks.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecRun.Framework.dll.config
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Dev\SpireAutomation\SpireAutomation1.0\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.abstractions.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.assert.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.core.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\XunitRetry.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\RestSharp.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.assert.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.core.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.abstractions.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.runner.utility.net452.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Default.srprofile
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Report\ReportTemplate.cshtml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll.config
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\UI.Tests.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\UI.Tests.pdb
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\RestSharp.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\SeleniumExtras.WaitHelpers.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\TechTalk.SpecFlow.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\WebDriver.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.assert.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.core.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.execution.desktop.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\XunitRetry.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.pdb
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\FluentAssertions.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.pdb
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\RestSharp.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.ValueTuple.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Helpers.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Mvc.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.Razor.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\WebDriver.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\WebDriver.Support.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.assert.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.core.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\bin\Debug\xunit.execution.desktop.xml
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CoreCompileInputs.cache
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csproj.CopyComplete
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\obj\Debug\UI.Tests.dll
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\obj\Debug\UI.Tests.pdb
+K:\Users\Administrator\Downloads\SpireAutomation-master\AutomationTest\UI.Tests\obj\Debug\UI.Tests.csprojAssemblyReference.cache

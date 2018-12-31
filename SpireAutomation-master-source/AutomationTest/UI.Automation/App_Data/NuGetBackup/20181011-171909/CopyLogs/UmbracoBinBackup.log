@@ -1,0 +1,138 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Oct 11 17:19:09 2018
+
+   Source : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\
+     Dest : C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\App_Data\NuGetBackup\20181011-171909\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   2	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\
+	    New File  		   29344	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	    New File  		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	  New Dir          6	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\amd64\
+	    New File  		  464040	sqlceca40.dll  0%   28%   56%   84%  100%  
+	    New File  		  107176	sqlcecompact40.dll  0%  100%  
+	    New File  		  155304	sqlceer40EN.dll  0%   84%  100%  
+	    New File  		   81576	sqlceme40.dll  0%  100%  
+	    New File  		  909992	sqlceqp40.dll  0%   28%   57%   86%  100%  
+	    New File  		  562344	sqlcese40.dll  0%   46%   93%  100%  
+	  New Dir         89	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\Debug\
+	    New File  		  166400	AutoMapper.dll  0%   78%  100%  
+	    New File  		   28672	AutoMapper.Net4.dll  0%  100%  
+	    New File  		   67072	AutoMapper.Net4.pdb  0%  100%  
+	    New File  		  540160	AutoMapper.pdb  0%   48%   97%  100%  
+	    New File  		   92505	AutoMapper.xml  0%  100%  
+	    New File  		  150016	ClientDependency.Core.dll  0%   87%  100%  
+	    New File  		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	    New File  		   75264	ClientDependency.Core.Mvc.pdb  0%  100%  
+	    New File  		  450048	ClientDependency.Core.pdb  0%   29%   58%   87%  100%  
+	    New File  		  120832	Examine.dll  0%  100%  
+	    New File  		  376320	Examine.pdb  0%   34%   69%  100%  
+	    New File  		  132608	HtmlAgilityPack.dll  0%   98%  100%  
+	    New File  		  251392	HtmlAgilityPack.pdb  0%   52%  100%  
+	    New File  		  123861	HtmlAgilityPack.xml  0%  100%  
+	    New File  		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	    New File  		  180736	ImageProcessor.dll  0%   72%  100%  
+	    New File  		  121344	ImageProcessor.Web.dll  0%  100%  
+	    New File  		  248848	ImageProcessor.Web.xml  0%   52%  100%  
+	    New File  		  543803	ImageProcessor.xml  0%   48%   96%  100%  
+	    New File  		  235008	ImpromptuInterface.dll  0%   55%  100%  
+	    New File  		  250264	ImpromptuInterface.xml  0%   52%  100%  
+	    New File  		   15872	Log4Net.Async.dll  0%  100%  
+	    New File  		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	    New File  		   1.5 m	Lucene.Net.xml  0%   16%   33%   49%   66%   82%   99%  100%  
+	    New File  		   49152	MarkdownSharp.dll  0%  100%  
+	    New File  		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	    New File  		  124939	Microsoft.AspNet.Identity.Core.xml  0%  100%  
+	    New File  		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	    New File  		   32939	Microsoft.AspNet.Identity.Owin.xml  0%  100%  
+	    New File  		  346848	Microsoft.AspNet.SignalR.Core.dll  0%   37%   75%  100%  
+	    New File  		  202157	Microsoft.AspNet.SignalR.Core.xml  0%   64%  100%  
+	    New File  		   41328	Microsoft.IO.RecyclableMemoryStream.dll  0%  100%  
+	    New File  		    6080	Microsoft.IO.RecyclableMemoryStream.pdb  0%  100%  
+	    New File  		  101560	Microsoft.Owin.dll  0%  100%  
+	    New File  		  138936	Microsoft.Owin.Host.SystemWeb.dll  0%   94%  100%  
+	    New File  		   38008	Microsoft.Owin.Host.SystemWeb.xml  0%  100%  
+	    New File  		   36536	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	    New File  		   33265	Microsoft.Owin.Security.Cookies.xml  0%  100%  
+	    New File  		   53944	Microsoft.Owin.Security.dll  0%  100%  
+	    New File  		   77496	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	    New File  		  111514	Microsoft.Owin.Security.OAuth.xml  0%  100%  
+	    New File  		   30791	Microsoft.Owin.Security.xml  0%  100%  
+	    New File  		  170191	Microsoft.Owin.xml  0%   77%  100%  
+	    New File  		   98856	Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll  0%  100%  
+	    New File  		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	    New File  		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	    New File  		  341504	MiniProfiler.pdb  0%   38%   76%  100%  
+	    New File  		  230981	MiniProfiler.xml  0%   56%  100%  
+	    New File  		  431616	MySql.Data.dll  0%   30%   60%   91%  100%  
+	    New File  		  653824	Newtonsoft.Json.dll  0%   40%   80%  100%  
+	    New File  		  674087	Newtonsoft.Json.xml  0%   38%   77%  100%  
+	    New File  		    4608	Owin.dll  0%  100%  
+	    New File  		  181248	RestSharp.dll  0%   72%  100%  
+	    New File  		  168617	RestSharp.xml  0%   77%  100%  
+	    New File  		   10240	Semver.dll  0%  100%  
+	    New File  		   18944	SpecFlow.Assist.Dynamic.dll  0%  100%  
+	    New File  		   28160	SpecRun.SpecFlowPlugin.dll  0%  100%  
+	    New File  		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	    New File  		  423820	System.Collections.Immutable.xml  0%   30%   61%   92%  100%  
+	    New File  		  185544	System.Net.Http.Formatting.dll  0%   70%  100%  
+	    New File  		  192626	System.Net.Http.Formatting.xml  0%   68%  100%  
+	    New File  		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	    New File  		  174072	System.Reflection.Metadata.xml  0%   75%  100%  
+	    New File  		  179104	System.Threading.Tasks.Dataflow.dll  0%   73%  100%  
+	    New File  		  690988	System.Threading.Tasks.Dataflow.xml  0%   37%   75%  100%  
+	    New File  		   79208	System.ValueTuple.dll  0%  100%  
+	    New File  		  203991	System.ValueTuple.xml  0%   64%  100%  
+	    New File  		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	    New File  		   74850	System.Web.Helpers.xml  0%  100%  
+	    New File  		  471240	System.Web.Http.dll  0%   27%   55%   83%  100%  
+	    New File  		   82120	System.Web.Http.WebHost.dll  0%  100%  
+	    New File  		   10367	System.Web.Http.WebHost.xml  0%  100%  
+	    New File  		  539657	System.Web.Http.xml  0%   48%   97%  100%  
+	    New File  		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	    New File  		  952428	System.Web.Mvc.xml  0%   27%   55%   82%  100%  
+	    New File  		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	    New File  		  522146	System.Web.Razor.xml  0%   25%   50%   75%  100%  
+	    New File  		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	    New File  		    4867	System.Web.WebPages.Deployment.xml  0%  100%  
+	    New File  		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	    New File  		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	    New File  		   25222	System.Web.WebPages.Razor.xml  0%  100%  
+	    New File  		  234716	System.Web.WebPages.xml  0%   55%  100%  
+	    New File  		  286208	TechTalk.SpecFlow.dll  0%   45%   91%  100%  
+	    New File  		   19456	TechTalk.SpecRun.Common.dll  0%  100%  
+	    New File  		   14336	TechTalk.SpecRun.dll  0%  100%  
+	    New File  		    4096	UI.Automation.dll  0%  100%  
+	    New File  		    4808	UI.Automation.dll.config  0%  100%  
+	    New File  		    7680	UI.Automation.pdb  0%  100%  
+	  New Dir          0	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\Release\
+	  New Dir          6	C:\Dev\SpireAutomation\SpireAutomation\AutomationTest\UI.Automation\bin\x86\
+	    New File  		  350376	sqlceca40.dll  0%   37%   74%  100%  
+	    New File  		   91304	sqlcecompact40.dll  0%  100%  
+	    New File  		  154792	sqlceer40EN.dll  0%   84%  100%  
+	    New File  		   67752	sqlceme40.dll  0%  100%  
+	    New File  		  643240	sqlceqp40.dll  0%   40%   81%  100%  
+	    New File  		  406696	sqlcese40.dll  0%   32%   64%   96%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         4         1         0         0         0
+   Files :       103       103         0         0         0         0
+   Bytes :   21.95 m   21.95 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            24210455 Bytes/sec.
+   Speed :            1385.333 MegaBytes/min.
+
+   Ended : Thu Oct 11 17:19:10 2018

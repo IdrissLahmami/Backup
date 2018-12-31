@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AutomationTest/TestResults/UI.Tests_Default_2018-10-04T171954.log
+/AutomationTest/TestResults/tmp10D9.jpg
